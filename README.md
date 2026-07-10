@@ -92,4 +92,4 @@ LinkedIn:
 https://www.linkedin.com/in/talha-ansari-504312375/
 
 Email:
-[talhaansari526773@gmail.com](mailto:talhaansari526773@gmail.com)
+[mtalhaansari.01@gmail.com](mailto:mtalhaansari.01@gmail.com)

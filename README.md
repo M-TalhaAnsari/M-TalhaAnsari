@@ -8,6 +8,7 @@ Currently focused on:
 
 * Artificial Intelligence
 * Retrieval-Augmented Generation (RAG)
+* Agentic AI
 * Python Development
 * FastAPI
 

@@ -28,7 +28,7 @@ source before showing it. **100% Recall@5/10, 1.000 MRR** on a 65-question
 lawyer-verified eval set.
 `Python` `LangChain` `FAISS` `FastAPI` `Groq` `Redis`
 
-### 🍽️ Restaurant Recommendation System — 6-Agent RAG Pipeline
+### 🍽️ [Restaurant Recommendation System — 6-Agent RAG Pipeline](https://github.com/M-TalhaAnsari/genai-rag/tree/main/AI-Powered-MultiModal-Recommendation-System)
 Personalized restaurant recommendations across 4 Pakistani cities using
 hybrid retrieval with RRF fusion, plus a 3-layer hallucination defense so
 every recommendation traces back to a real record.
@@ -56,11 +56,15 @@ structures and Dijkstra-based routing, built without STL containers.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-TalhaAnsari&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-TalhaAnsari&layout=compact&hide_border=true" height="165">
-</p>
+![Python](https://img.shields.io/badge/Python-primary-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-cache%2Fqueue-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containerization-2496ED?logo=docker&logoColor=white)
 
 ---
+
+**Currently building:** AI backend systems in Python ·
 
 <p align="center"><i>Open to backend / AI engineering internships — feel free to reach out.</i></p>
